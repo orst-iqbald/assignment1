@@ -12,4 +12,6 @@ Interests: Tea chemistry, eastern art, architecture
   <p> Maze through the room </p>
   <p> Some more info about my programming background </p>
   <p> I want to get better at JavaScript so I can design cool affects </p>
+  <p> alternate bio</p>
+  <p> I would love to travel all over the world and do free lance coding </p>
 </body>
