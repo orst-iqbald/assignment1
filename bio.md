@@ -6,4 +6,7 @@ Interests: Tea chemistry, eastern art, architecture
   <p> C++, Ruby. </p>
   <p> I can figure my way out through : </p>
   <p> HTML, Java, JavaScript </p>
+  <p>Favorite CS 161/162 project: </p>
+  <p> Fantasy combat </p>
+  <p> Maze through the room </p>
 </body>
