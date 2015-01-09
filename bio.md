@@ -10,4 +10,6 @@ Interests: Tea chemistry, eastern art, architecture
   <p>Favorite CS 161/162 project: </p>
   <p> Fantasy combat </p>
   <p> Maze through the room </p>
+  <p> Some more info about my programming background </p>
+  <p> I want to get better at JavaScript so I can design cool affects </p>
 </body>
